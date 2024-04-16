@@ -288,6 +288,8 @@ export default class AudioReactRecorder extends React.Component {
     }
 
     this.setUpRecording()
+    // this.context.resume()
+
   }
 
   start = async () => {
@@ -297,6 +299,7 @@ export default class AudioReactRecorder extends React.Component {
     // reset the buffers for the new recording
     this.leftchannel.length = this.rightchannel.length = 0
     this.recordingLength = 0
+    // this.context.resume()
   }
 
   stop = () => {
