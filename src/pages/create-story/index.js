@@ -44,7 +44,7 @@ const CreateStory = () => {
     setaudioData(data);
     if (!data || !data.blob) {
       console.error('onStop received an invalid audio:', data);
-      return;
+      return; // trying to change again
     }
 
     //prepare audio element
