@@ -1,0 +1,30 @@
+.links {
+  display: grid;
+  grid-template-columns: 1fr 1.1fr;
+  width: 100%;
+  font-family: var(--font-family-body);
+  font-size: var(--font-size-body-small);
+  font-weight: 300;
+  color: #000000;
+  text-align: left;
+}
+
+.links a,
+.links a:visited,
+.links a:link {
+  color: #000000;
+}
+
+.bottom-info {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  width: 100%;
+}
+
+.bottom-info span {
+  font-family: Montserrat;
+  font-size: 12px;
+  font-style: normal;
+  text-align: right;
+}

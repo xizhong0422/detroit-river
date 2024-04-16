@@ -1,0 +1,37 @@
+.story-detail-page-container {
+  padding: 0;
+}
+
+.story-detail-page-container header img {
+  left: 5%;
+}
+
+.story-icons{
+  display: flex;
+  justify-content: flex-end;
+  align-items: flex-end;
+}
+
+.share-icon {
+  margin: 16px 5% 1% 5%;
+  float: right;
+}
+
+.carousel img,
+.carousel video {
+  height: 25vh;
+  object-fit: contain;
+  display: flex;
+  margin: auto;
+}
+
+.carousel audio {
+  height: 25vh;
+  object-fit: contain;
+  display: flex;
+  margin: auto;
+}
+
+.story-image-gallery {
+  width: 100%;
+}
