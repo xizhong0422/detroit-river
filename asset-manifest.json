@@ -1,9 +1,7 @@
 {
   "files": {
     "main.css": "/detroit-river/static/css/main.c4727a54.css",
-    "main.js": "/detroit-river/static/js/main.d9965822.js",
-    "static/js/180.8d5b7fb2.chunk.js": "/detroit-river/static/js/180.8d5b7fb2.chunk.js",
-    "static/js/528.177add7d.chunk.js": "/detroit-river/static/js/528.177add7d.chunk.js",
+    "main.js": "/detroit-river/static/js/main.e9844428.js",
     "static/js/592.f78d9da5.chunk.js": "/detroit-river/static/js/592.f78d9da5.chunk.js",
     "static/media/profile_bg.png": "/detroit-river/static/media/profile_bg.76e3649e0f69858f2840.png",
     "static/media/home_gallery.png": "/detroit-river/static/media/home_gallery.96df6d04eaf9943446fc.png",
@@ -32,13 +30,11 @@
     "static/media/menu.svg": "/detroit-river/static/media/menu.4d4c9f3bbd84c6c0845d7dea025d96c4.svg",
     "static/media/arrow_right.svg": "/detroit-river/static/media/arrow_right.a01bf4cff06fcedffa1327fc97bfc7d3.svg",
     "main.c4727a54.css.map": "/detroit-river/static/css/main.c4727a54.css.map",
-    "main.d9965822.js.map": "/detroit-river/static/js/main.d9965822.js.map",
-    "180.8d5b7fb2.chunk.js.map": "/detroit-river/static/js/180.8d5b7fb2.chunk.js.map",
-    "528.177add7d.chunk.js.map": "/detroit-river/static/js/528.177add7d.chunk.js.map",
+    "main.e9844428.js.map": "/detroit-river/static/js/main.e9844428.js.map",
     "592.f78d9da5.chunk.js.map": "/detroit-river/static/js/592.f78d9da5.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c4727a54.css",
-    "static/js/main.d9965822.js"
+    "static/js/main.e9844428.js"
   ]
 }
